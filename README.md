@@ -1,3 +1,2 @@
 # ffmpeg_script
-This script cuts the end and start of videos in bulk.
-Also it converts the mp4 in mkv files.
+Removes the start and end of a video in bulk.
